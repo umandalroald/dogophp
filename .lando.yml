@@ -1,0 +1,4 @@
+name: dogophp
+recipe: lamp
+config:
+  webroot: .
